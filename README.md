@@ -40,10 +40,8 @@ The goal is to identify key factors such as discounts, reviews, seasonal trends,
 📁 Customer-Shopping-Analysis
 │── 📁 data
 │   ├── raw_data.csv
-│   ├── cleaned_data.csv
 │
 │── 📁 python
-│   ├── data_cleaning.py
 │   ├── preprocessing.ipynb
 │
 │── 📁 sql
@@ -52,10 +50,6 @@ The goal is to identify key factors such as discounts, reviews, seasonal trends,
 │
 │── 📁 powerbi
 │   ├── dashboard.pbix
-│
-│── 📁 reports
-│   ├── project_report.pdf
-│   ├── presentation.pptx
 │
 │── README.md
 ```
